@@ -178,6 +178,7 @@ kbd {
     font-weight: bold;
     line-height: 1.4;
     cursor: text;
+    border-bottom: 1px solid #88889A;
     color: var(--editorColor80);
   }
 
@@ -222,27 +223,32 @@ kbd {
   }
 
   h1 {
-    font-size: 1.875em;
+    font-size: 1.975em;
   }
 
   h2 {
-    font-size: 1.5em;
+    font-size: 1.6em;
+    color: var(--editorColor60);
   }
 
   h3 {
     font-size: 1.375em;
+    color: var(--editorColor50);
   }
 
   h4 {
     font-size: 1.25em;
+    color: var(--editorColor40);
   }
 
   h5 {
     font-size: 1.125em;
+    color: var(--editorColor40);
   }
 
   h6 {
     font-size: 1em;
+    color: var(--editorColor30);
   }
 
   h1 .ag-gray {
