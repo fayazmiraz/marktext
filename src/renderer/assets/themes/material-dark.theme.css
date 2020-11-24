@@ -24,7 +24,7 @@
   --editorBgColor: #34393f;
 
   --headerColor1: rgba(171, 178, 191, 1);
-  --headerColor2: rgba(190, 228, 20,  1);
+  --headerColor2: rgba(190, 228, 20, .8);
   --headerColor3: rgba(190, 228, 20, .8);
   --headerColor4: rgba(190, 228, 20, .7);
   --headerColor5: rgba(190, 228, 20, .6);
