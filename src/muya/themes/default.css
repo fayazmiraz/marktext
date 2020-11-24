@@ -178,7 +178,7 @@ kbd {
     font-weight: bold;
     line-height: 1.4;
     cursor: text;
-    color: var(--editorColor80);
+    color: var(--headerColor);
   }
 
   h1:hover a.anchor,
@@ -224,30 +224,37 @@ kbd {
   h1 {
     font-size: 1.875em;
     margin-bottom: 1.5rem;
+    color: var(--headerColor1);
   }
 
   h2 {
     font-size: 1.5em;
     margin-top: 1.5rem;
     border-bottom: 1px solid #88889A;
-    color: var(--themeColor70);
+    border-bottom-width: 3px;
+    border-bottom-style: double;
+    border-bottom-color: var(--headerColor2);
+    color: var(--headerColor2);
   }
 
   h3 {
     font-size: 1.375em;
-    border-bottom: 1px dotted #88889A;
+    color: var(--headerColor3);
   }
 
   h4 {
     font-size: 1.25em;
+    color: var(--headerColor4);
   }
 
   h5 {
     font-size: 1.125em;
+    color: var(--headerColor5);
   }
 
   h6 {
     font-size: 1em;
+    color: var(--headerColor6);
   }
 
   h1 .ag-gray {

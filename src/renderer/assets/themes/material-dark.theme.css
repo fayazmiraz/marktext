@@ -22,6 +22,14 @@
   --editorColor10: rgba(171, 178, 191, .5);
   --editorColor04: rgba(171, 178, 191, .04);
   --editorBgColor: #34393f;
+
+  --headerColor1: rgba(171, 178, 191, 1);
+  --headerColor2: rgba(190, 228, 20,  1);
+  --headerColor3: rgba(190, 228, 20, .8);
+  --headerColor4: rgba(190, 228, 20, .7);
+  --headerColor5: rgba(190, 228, 20, .6);
+  --headerColor6: rgba(190, 228, 20, .5);
+
   --deleteColor: #ff6969;
   --iconColor: rgba(255, 255, 255, .56);
   --codeBgColor: #d8d8d869;

@@ -28,6 +28,15 @@
   --editorColor10: rgba(0, 0, 0, .1);
   --editorColor04: rgba(0, 0, 0, .03);
   --editorBgColor: rgba(255, 255, 255, 1);
+
+  --headerColor: var(--editorColor80);
+  --headerColor1: var(--editorColor80);
+  --headerColor2: var(--editorColor80);
+  --headerColor3: var(--editorColor80);
+  --headerColor4: var(--editorColor80);
+  --headerColor5: var(--editorColor80);
+  --headerColor6: var(--editorColor80);
+
   --deleteColor: #ff6969;
   --iconColor: #6B737B;
   --codeBgColor: #d8d8d869;
