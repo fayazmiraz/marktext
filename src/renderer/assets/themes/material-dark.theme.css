@@ -21,7 +21,7 @@
   --editorColor30: rgba(171, 178, 191, .8);
   --editorColor10: rgba(171, 178, 191, .5);
   --editorColor04: rgba(171, 178, 191, .04);
-  --editorBgColor: #34393f;
+  --editorBgColor: #0d1117;
 
   --headerColor1: rgba(171, 178, 191, 1);
   --headerColor2: rgba(190, 228, 20, .8);
@@ -32,8 +32,8 @@
 
   --deleteColor: #ff6969;
   --iconColor: rgba(255, 255, 255, .56);
-  --codeBgColor: #d8d8d869;
-  --codeBlockBgColor: #3f454c;
+  --codeBgColor: #161b22;
+  --codeBlockBgColor: #161b22;
   --footnoteBgColor: rgba(66, 67, 68, .5);
   --inputBgColor: rgba(0, 0, 0, .1);
   --focusColor: var(--themeColor);
