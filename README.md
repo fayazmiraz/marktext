@@ -36,3 +36,6 @@ yarn run dev
 ## Screenshot
 
 > Following is a screenshot of MarkText with my changed theme:
+
+![image](https://user-images.githubusercontent.com/1200316/134829921-f53cb9e7-33f3-4b20-bea6-e87a71e96181.png)
+
